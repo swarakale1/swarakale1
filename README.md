@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Swara Kale 👋
 
-<!--
-**swarakale1/swarakale1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year B.Tech Student (CSE)  
+🏫 VIT Bhopal University  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a first-year engineering student interested in learning new technologies, improving my programming skills, and exploring digital tools. I am currently building my digital literacy and technical foundation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Interests
+- Python  
+- Basic Programming  
+- Communication Skills  
+- Learning New Technologies  
+
+## 🎯 Goals
+- To develop strong technical and problem-solving skills  
+- To build a professional digital presence  
+- To explore opportunities in software development and technology  
+
